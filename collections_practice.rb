@@ -9,5 +9,6 @@ def sort_array_desc(array)
 end
 
 def sort_array_char_count(string_array)
-  new_array << string_array.sort do 
+  new_array << string_array.sort do |a, b|
+    
 end
