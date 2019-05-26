@@ -33,7 +33,7 @@ def find_a(array)
 end
 
 def sum_array(num_array)
-  num_array
+  num_array.inject
 end
 
 
