@@ -37,6 +37,7 @@ def sum_array(num_array)
 end
 
 def add_s(array)
-  array.each_with_index
+  array.each_with_index do |word, index|
+    
 end
 
