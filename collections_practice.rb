@@ -29,7 +29,7 @@ end
 
 def find_a(string_array)
   string_array.select do |string|
-    string.
+    string.start_with?
 end
 
 def sum_array(num_array)
