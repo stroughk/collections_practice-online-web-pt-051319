@@ -37,6 +37,6 @@ def sum_array(num_array)
 end
 
 def add_s(array)
-  array.
+  array.each_with_index
 end
 
