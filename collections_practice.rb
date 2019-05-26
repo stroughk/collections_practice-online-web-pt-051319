@@ -32,7 +32,7 @@ def find_a(array)
     word.start_with?("a") 
 end
 
-def sum_array(array)
+def sum_array(num_array)
   
 end
 
